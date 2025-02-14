@@ -11,9 +11,5 @@ const sr = ScrollReveal ({
 
   sr.reveal('.footer-top',{ delay:300, origin:'left' })
   sr.reveal('.input text-center',{ delay:350, origin:'right' })
-  sr.reveal('.text-center',{ delay:350, origin:'top' })
-  sr.reveal('.menu-food-content',{ delay:350, origin:'top' })
-  sr.reveal('.menu-food-text',{ delay:350, origin:'bottom' })
-  sr.reveal('.food-main-content',{ delay:350, origin:'bottom' })
-  sr.reveal('.before',{ delay:350, origin:'top' })
-  sr.reveal('.footer-logo',{ delay:350, origin:'top' })
+  sr.reveal('.text-center',{ delay:300, origin:'top' })
+ 
