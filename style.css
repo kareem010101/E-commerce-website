@@ -5,6 +5,9 @@
     outline: none;
     font-family:sans-serif,Verdana, Tahoma,  ;
 }
+body{
+    overflow-x:hidden;
+}
 /*top-navbar*/
 .top-navbar{
     display: flex;
