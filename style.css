@@ -6,7 +6,8 @@
     font-family:sans-serif,Verdana, Tahoma,  ;
 }
 body{
-    overflow-x:hidden;
+    
+     overflow-x: hidden;
 }
 /*top-navbar*/
 .top-navbar{
@@ -748,6 +749,7 @@ html{
     color: white;
 }
 /* ////////////contact///////// */
+
 
 
 
